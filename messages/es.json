@@ -1,0 +1,64 @@
+{
+  "Index": {
+    "title": "THE VOID"
+  },
+  "Navbar": {
+    "projects": "PROYECTOS",
+    "about": "SOBRE MÍ",
+    "stack": "STACK",
+    "contact": "CONTACTO",
+    "status": "DISPONIBLE PARA PROYECTOS",
+    "menu": "MENÚ",
+    "close": "CERRAR"
+  },
+  "Footer": {
+    "rights": "TODOS LOS DERECHOS RESERVADOS",
+    "systemStatus": "SISTEMA: OPERATIVO",
+    "mode": "MODO OSCURO: BLOQUEADO (#0a0a0a)",
+    "backToTop": "VOLVER ARRIBA",
+    "navigation": "NAVEGACIÓN",
+    "social": "REDES",
+    "version": "VER"
+  },
+  "Contact": {
+    "sectionTag": "[04 // CONTACTO]",
+    "title": "INICIAR TRANSMISIÓN",
+    "description": "¿Tienes un proyecto en mente o buscas elevar la infraestructura técnica de tu interfaz? Enviemos un comando.",
+    "terminalPrompt": "leandro@void:~$ echo $CONTACT_EMAIL",
+    "email": "contact@leandrocarrion.dev",
+    "clickToCopy": "HACER CLIC PARA COPIAR",
+    "copied": "COPIADO AL BUFFER // STDOUT: 200 OK",
+    "openMail": "ABRIR CLIENTE DE CORREO",
+    "status": "DISPONIBLE PARA CONTRATACIÓN",
+    "latency": "LATENCIA: RESPUESTA < 24H",
+    "location": "NODO: BUENOS AIRES (UTC-3)",
+    "encryption": "CANAL: TLS 1.3 CIFRADO",
+    "channelsTitle": "CANALES DIRECTOS",
+    "github": "GITHUB",
+    "linkedin": "LINKEDIN",
+    "calendar": "AGENDAR LLAMADA"
+  },
+  "About": {
+    "badge": "002 // PERFIL & ARSENAL TÉCNICO",
+    "sectionTitle": "PERFIL_INGENIERO",
+    "sectionSubtitle": "CONSTRUCCIÓN DE SISTEMAS WEB DE ALTO RENDIMIENTO Y ESTÉTICA INDUSTRIAL",
+    "bioBadge": "ID: LEANDRO_CARRION // SENIOR_FULLSTACK",
+    "bioRole": "Full-Stack Developer & Creative Engineer",
+    "bioDesc1": "Especializado en interfaces de alta fidelidad, arquitectura moderna y rendimiento extremo. Enfocado en el brutalismo industrial y sistemas oscuros sin concesiones.",
+    "bioDesc2": "Construyo aplicaciones web que combinan la potencia de Next.js 15 y TypeScript con físicas de movimiento precisas (GSAP/Lenis) y backend escalable. Código sin relleno, tipografía brutal y diseño funcional que desafía las plantillas genéricas.",
+    "status": "DISPONIBLE",
+    "telemetryTitle": "TELEMETRÍA // MÉTRICAS_INGENIERÍA",
+    "stackTitle": "ARSENAL TÉCNICO & ARQUITECTURA",
+    "catFrontend": "FRONTEND & CORE ENGINE",
+    "catAnimation": "ANIMACIÓN & FÍSICAS UI",
+    "catBackend": "BACKEND & PERSISTENCIA",
+    "catDevops": "DEVOPS, LINUX & TOOLING",
+    "directivesTitle": "DIRECTIVAS DE INGENIERÍA // FRAMEWORK",
+    "dir1Title": "01 // RIGOR MECÁNICO",
+    "dir1Desc": "Arquitectura modular, tipado estricto con TypeScript, cero dependencias redundantes.",
+    "dir2Title": "02 // MOVIMIENTO CON PESO",
+    "dir2Desc": "Físicas de resorte y cinemática calculada. Cero animaciones decorativas lentas.",
+    "dir3Title": "03 // BRUTALISMO THE VOID",
+    "dir3Desc": "Modo oscuro estricto (#0a0a0a), grillas estructurales visibles y contraste implacable."
+  }
+}

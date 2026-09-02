@@ -1,0 +1,64 @@
+{
+  "Index": {
+    "title": "THE VOID"
+  },
+  "Navbar": {
+    "projects": "PROJECTS",
+    "about": "ABOUT",
+    "stack": "STACK",
+    "contact": "CONTACT",
+    "status": "AVAILABLE FOR WORK",
+    "menu": "MENU",
+    "close": "CLOSE"
+  },
+  "Footer": {
+    "rights": "ALL RIGHTS RESERVED",
+    "systemStatus": "SYS_STATUS: OPERATIONAL",
+    "mode": "DARK_MODE: LOCKED (#0a0a0a)",
+    "backToTop": "BACK TO TOP",
+    "navigation": "NAVIGATION",
+    "social": "CONNECT",
+    "version": "VER"
+  },
+  "Contact": {
+    "sectionTag": "[04 // CONTACT]",
+    "title": "INITIATE TRANSMISSION",
+    "description": "Have a project in mind or looking to elevate your technical interface infrastructure? Dispatch a command.",
+    "terminalPrompt": "leandro@void:~$ echo $CONTACT_EMAIL",
+    "email": "contact@leandrocarrion.dev",
+    "clickToCopy": "CLICK TO COPY TO CLIPBOARD",
+    "copied": "COPIED TO BUFFER // STDOUT: 200 OK",
+    "openMail": "OPEN IN MAIL CLIENT",
+    "status": "AVAILABLE FOR HIRE / CONTRACT",
+    "latency": "LATENCY: RESPONSE < 24H",
+    "location": "NODE: BUENOS AIRES (UTC-3)",
+    "encryption": "CHANNEL: TLS 1.3 ENCRYPTED",
+    "channelsTitle": "DIRECT CHANNELS",
+    "github": "GITHUB",
+    "linkedin": "LINKEDIN",
+    "calendar": "SCHEDULE CALL"
+  },
+  "About": {
+    "badge": "002 // PROFILE & TECH ARSENAL",
+    "sectionTitle": "ENGINEERING_PROFILE",
+    "sectionSubtitle": "BUILDING HIGH-PERFORMANCE WEB SYSTEMS & INDUSTRIAL AESTHETICS",
+    "bioBadge": "ID: LEANDRO_CARRION // SENIOR_FULLSTACK",
+    "bioRole": "Full-Stack Developer & Creative Engineer",
+    "bioDesc1": "Specialized in high-fidelity interfaces, modern architecture, and extreme performance. Focused on industrial brutalism and uncompromising dark systems.",
+    "bioDesc2": "I engineer web applications combining Next.js 15 and TypeScript power with precise motion physics (GSAP/Lenis) and scalable backends. Zero-slop code, brutal typography, and functional layouts challenging generic templates.",
+    "status": "AVAILABLE",
+    "telemetryTitle": "TELEMETRY // ENGINEERING_METRICS",
+    "stackTitle": "TECHNICAL ARSENAL & ARCHITECTURE",
+    "catFrontend": "FRONTEND & CORE ENGINE",
+    "catAnimation": "ANIMATION & UI PHYSICS",
+    "catBackend": "BACKEND & PERSISTENCE",
+    "catDevops": "DEVOPS, LINUX & TOOLING",
+    "directivesTitle": "ENGINEERING DIRECTIVES // FRAMEWORK",
+    "dir1Title": "01 // MECHANICAL RIGOR",
+    "dir1Desc": "Modular architecture, strict TypeScript typing, zero redundant dependencies.",
+    "dir2Title": "02 // PURPOSEFUL MOTION",
+    "dir2Desc": "Spring physics and calculated kinematics. Zero slow decorative delays.",
+    "dir3Title": "03 // THE VOID BRUTALISM",
+    "dir3Desc": "Strict dark mode (#0a0a0a), visible structural grids, and uncompromising contrast."
+  }
+}
